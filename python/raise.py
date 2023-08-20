@@ -11,5 +11,5 @@ finally :
     print( 'But Today Is Beautiful Anyway.' )
 
 # output
-# The Program Found An  Invalid Day Number
+# The Program Found An Invalid Day Number
 # But Today Is Beautiful Anyway.
