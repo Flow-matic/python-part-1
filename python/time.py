@@ -5,7 +5,7 @@ print( 'Today Is:' , today )
 
 for attr in \
 [ 'year' , 'month' , 'day' , 'hour' , 'minute' , 'second' , 'microsecond' ] :
-        print( attr , ':\t' , ':\t' , getattr( today , attr ) )
+        print( attr , ':\t' , getattr( today , attr ) )
 
 print( 'Time:' , today.hour , ':' , today.minute , sep = '' )
 
